@@ -1,4 +1,4 @@
-# taj_prediction
+# An Attention-based Approach for Trajectory Prediction in Multi-agent Sports Games
 
 **RLVC**
 
