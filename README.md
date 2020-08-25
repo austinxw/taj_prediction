@@ -1,6 +1,5 @@
 # An Attention-based Approach for Trajectory Prediction in Multi-agent Sports Games
 
-**RLVC**
 
 The project page of An Attention-based Approach for Trajectory Prediction in Multi-agent Sports Games (in submission to )
 
